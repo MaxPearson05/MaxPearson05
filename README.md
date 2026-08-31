@@ -24,7 +24,6 @@ The role involved monitoring physical performance metrics, providing real-time f
 **Python / pandas**  
 **Excel / Power Query**  
 **Power BI / DAX**  
-**Tableau**  
 **BigQuery**  
 **Git / GitHub**
 
@@ -45,21 +44,6 @@ The project covers:
 - Power BI decision reporting
 - QA and cross-tool reconciliation
 
-### Financial Conduct & Customer Outcomes
-
-Analysis of real public data from the **Financial Conduct Authority, Financial Ombudsman Service and Bank of England**.
-
-The project covers:
-
-- multi-source data integration
-- SQL and Python analysis
-- denominator and rate design
-- firm/entity mapping
-- time-period alignment
-- customer-outcome and complaint trends
-- Tableau and Power BI reporting
-- responsible interpretation and validation
-
 ## Portfolio
 
 My main learning and project-development repository:
@@ -75,7 +59,7 @@ Includes:
 - Python and pandas
 - API ingestion
 - data-quality validation
-- Power BI and Tableau development
+- Power BI development
 
 ## How I Work With Data
 
